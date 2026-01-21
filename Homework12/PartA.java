@@ -1,0 +1,1 @@
+//The variable "input" is declared twice, first as a string, and next as an integer. To fix this, change one of the variable's names, so that there is no contradiction.
